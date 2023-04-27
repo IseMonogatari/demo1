@@ -35,3 +35,6 @@ ax.set_yticks([])
 ax.set_zticks([])
 #fig.savefig("surface3d_frontpage.png", dpi=25)  # results in 160x120 px image
 plt.show()
+
+# я тут дописал пару строк комментариев
+# привет!
