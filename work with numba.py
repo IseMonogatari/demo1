@@ -3,6 +3,8 @@ import scipy as sc
 from scipy.sparse.linalg import eigs
 import numpy as num
 
+# добавил строчку комментария в код
+
 j = complex(0, 1)
 a0 = 1
 p = 7  # 10
